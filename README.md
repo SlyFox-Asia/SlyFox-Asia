@@ -1,5 +1,6 @@
-## Hi, I'm Splatty 👋
+## Hi, I'm SlyFox 👋
 
+👤 Also known as "Splatty"<br/>
 🏫 Student at IIS E. Mattei, Vasto (CH)<br/>
 🐰 Former member of the rabbit r[eborn] organization, the first reverse engineering project for the rabbit r1<br/>
 ♿️ I create accessible, yet unique apps, to solve everyday problems<br/>
