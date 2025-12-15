@@ -2,7 +2,7 @@
 
 👤 Also known as "Splatty"<br/>
 🏫 Student at IIS E. Mattei, Vasto (CH)<br/>
-🐰 Former member of the rabbit r[eborn] organization, the first reverse engineering project for the rabbit r1<br/>
+🐰 Former member of the rabbit r[eborn] organization, the first reverse engineering project for the rabbit r1 - rabbitude's predecessor!<br/>
 ♿️ I create accessible, yet unique apps, to solve everyday problems<br/>
 🎥 I am a motion designer posting on both [TikTok](https://www.tiktok.com/@splattydoesstuff?lang=en) and [Instagram](https://www.instagram.com/splattydoesstuff/)<br/>
 💼 Worked (as an advertiser/designer) with brands like HUAWEI, Replit, Ultrahuman and much more <br/>
