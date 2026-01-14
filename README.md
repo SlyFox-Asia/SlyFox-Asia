@@ -1,4 +1,4 @@
-## Hi, I'm SlyFox 👋
+## Hi, I'm neoreo 🍪
 
 👤 Also known as "Splatty"<br/>
 🏫 Student at IIS E. Mattei, Vasto (CH)<br/>
